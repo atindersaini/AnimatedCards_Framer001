@@ -1,0 +1,414 @@
+{
+  "version" : 0,
+  "root" : {
+    "id" : "9c5rt_o}",
+    "fillColor" : "#fff",
+    "__class" : "CanvasNode",
+    "parentid" : null,
+    "children" : [
+      {
+        "id" : "^!]l8\/|\/",
+        "__class" : "FrameNode",
+        "x" : 0,
+        "parentid" : "9c5rt_o}",
+        "width" : 375,
+        "y" : 0,
+        "deviceType" : "apple-iphone-7-black",
+        "children" : [
+          {
+            "radiusBottomLeft" : 0,
+            "rotation" : 0,
+            "fillColorEnabled" : true,
+            "id" : "yZV>KQhE",
+            "__class" : "RectangleNode",
+            "fillColor" : "rgba(0,170,255,0.5)",
+            "aspectRatioLocked" : false,
+            "widthFactor" : null,
+            "opacity" : 1,
+            "clip" : false,
+            "borderColor" : "#222",
+            "left" : null,
+            "locked" : false,
+            "radius" : 0,
+            "boxShadows" : [
+              {
+                "x" : 0,
+                "color" : "rgba(0,0,0,0.25)",
+                "enabled" : false,
+                "y" : 2,
+                "__class" : "BoxShadow",
+                "inset" : false,
+                "blur" : 5
+              }
+            ],
+            "centerAnchorX" : 0.9613333333333334,
+            "borderPerSide" : false,
+            "radiusBottomRight" : 0,
+            "children" : [
+
+            ],
+            "parentid" : "^!]l8\/|\/",
+            "borderRight" : 1,
+            "name" : "placeholder2",
+            "height" : 407,
+            "borderWidth" : 1,
+            "top" : 130,
+            "borderTop" : 1,
+            "radiusTopRight" : 0,
+            "borderBottom" : 1,
+            "borderEnabled" : false,
+            "constraintsLocked" : false,
+            "right" : 0,
+            "radiusPerCorner" : false,
+            "centerAnchorY" : 0.5,
+            "visible" : true,
+            "borderLeft" : 1,
+            "heightFactor" : null,
+            "radiusTopLeft" : 0,
+            "targetName" : "placeholder2",
+            "bottom" : 130,
+            "width" : 29
+          },
+          {
+            "radiusBottomLeft" : 0,
+            "rotation" : 0,
+            "fillColorEnabled" : true,
+            "id" : "gw!Y6Kv*",
+            "__class" : "RectangleNode",
+            "fillColor" : "rgba(0,170,255,0.5)",
+            "aspectRatioLocked" : false,
+            "widthFactor" : null,
+            "opacity" : 1,
+            "clip" : false,
+            "borderColor" : "#222",
+            "left" : 0,
+            "locked" : false,
+            "radius" : 0,
+            "boxShadows" : [
+              {
+                "x" : 0,
+                "color" : "rgba(0,0,0,0.25)",
+                "enabled" : false,
+                "y" : 2,
+                "__class" : "BoxShadow",
+                "inset" : false,
+                "blur" : 5
+              }
+            ],
+            "centerAnchorX" : 0.03866666666666667,
+            "borderPerSide" : false,
+            "radiusBottomRight" : 0,
+            "children" : [
+
+            ],
+            "parentid" : "^!]l8\/|\/",
+            "borderRight" : 1,
+            "name" : "placeholder1",
+            "height" : 407,
+            "borderWidth" : 1,
+            "top" : 130,
+            "borderTop" : 1,
+            "radiusTopRight" : 0,
+            "borderBottom" : 1,
+            "borderEnabled" : false,
+            "constraintsLocked" : false,
+            "right" : null,
+            "radiusPerCorner" : false,
+            "centerAnchorY" : 0.5,
+            "visible" : true,
+            "borderLeft" : 1,
+            "heightFactor" : null,
+            "radiusTopLeft" : 0,
+            "targetName" : "placeholder1",
+            "bottom" : 130,
+            "width" : 29
+          },
+          {
+            "radiusBottomLeft" : 10,
+            "rotation" : 0,
+            "fillColorEnabled" : true,
+            "id" : "_R_*SRc-",
+            "__class" : "RectangleNode",
+            "fillColor" : "rgb(153, 153, 153)",
+            "aspectRatioLocked" : false,
+            "widthFactor" : null,
+            "opacity" : 1,
+            "clip" : false,
+            "borderColor" : "#222",
+            "left" : null,
+            "locked" : false,
+            "radius" : 10,
+            "boxShadows" : [
+              {
+                "x" : 0,
+                "color" : "rgba(0,0,0,0.25)",
+                "enabled" : false,
+                "y" : 2,
+                "__class" : "BoxShadow",
+                "inset" : false,
+                "blur" : 5
+              }
+            ],
+            "centerAnchorX" : 1.306666666666667,
+            "borderPerSide" : false,
+            "radiusBottomRight" : 10,
+            "children" : [
+              {
+                "__class" : "TextNode",
+                "locked" : false,
+                "centerAnchorX" : 0.5017361111111112,
+                "parentid" : "_R_*SRc-",
+                "rotation" : 0,
+                "top" : null,
+                "right" : null,
+                "styledText" : {
+                  "blocks" : [
+                    {
+                      "depth" : 0,
+                      "inlineStyleRanges" : [
+                        {
+                          "length" : 3,
+                          "style" : "FONT:.SFNSText|SFUIText-Regular|.SFUIText",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 3,
+                          "style" : "LETTERSPACING:0",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 3,
+                          "style" : "LINEHEIGHT:1.2",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 3,
+                          "style" : "SIZE:48",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 3,
+                          "style" : "COLOR:rgb(85, 85, 85)",
+                          "offset" : 0
+                        }
+                      ],
+                      "entityRanges" : [
+
+                      ],
+                      "data" : {
+                        "emptyStyle" : [
+                          "FONT:.SFNSText|SFUIText-Regular|.SFUIText",
+                          "LETTERSPACING:0",
+                          "LINEHEIGHT:1.2",
+                          "SIZE:48",
+                          "COLOR:rgb(85, 85, 85)"
+                        ]
+                      },
+                      "text" : "TWO",
+                      "key" : "9e9o8",
+                      "type" : "unstyled"
+                    }
+                  ],
+                  "__class" : "StyledTextDraft",
+                  "entityMap" : {
+
+                  }
+                },
+                "name" : null,
+                "shadows" : [
+                  {
+                    "y" : 2,
+                    "enabled" : false,
+                    "blur" : 5,
+                    "x" : 0,
+                    "__class" : "Shadow",
+                    "color" : "rgba(0,0,0,0.25)"
+                  }
+                ],
+                "id" : "SPY@$npE",
+                "constraintsLocked" : false,
+                "left" : null,
+                "bottom" : null,
+                "height" : 57,
+                "opacity" : 1,
+                "width" : 114,
+                "widthFactor" : null,
+                "targetName" : null,
+                "heightFactor" : null,
+                "editable" : false,
+                "visible" : true,
+                "centerAnchorY" : 0.4988584474885845,
+                "autoSize" : true
+              }
+            ],
+            "parentid" : "^!]l8\/|\/",
+            "borderRight" : 1,
+            "name" : "card2",
+            "height" : 438,
+            "borderWidth" : 1,
+            "top" : 115,
+            "borderTop" : 1,
+            "radiusTopRight" : 10,
+            "borderBottom" : 1,
+            "borderEnabled" : false,
+            "constraintsLocked" : false,
+            "right" : -259,
+            "radiusPerCorner" : false,
+            "centerAnchorY" : 0.5007496251874063,
+            "visible" : true,
+            "borderLeft" : 1,
+            "heightFactor" : null,
+            "radiusTopLeft" : 10,
+            "targetName" : "card2",
+            "bottom" : 114,
+            "width" : 288
+          },
+          {
+            "radiusBottomLeft" : 10,
+            "rotation" : 0,
+            "fillColorEnabled" : true,
+            "id" : ",Tft@'a}",
+            "__class" : "RectangleNode",
+            "fillColor" : "rgb(221, 221, 221)",
+            "aspectRatioLocked" : false,
+            "widthFactor" : null,
+            "opacity" : 1,
+            "clip" : false,
+            "borderColor" : "#222",
+            "left" : 44,
+            "locked" : false,
+            "radius" : 10,
+            "boxShadows" : [
+              {
+                "x" : 0,
+                "color" : "rgba(0,0,0,0.25)",
+                "enabled" : false,
+                "y" : 2,
+                "__class" : "BoxShadow",
+                "inset" : false,
+                "blur" : 5
+              }
+            ],
+            "centerAnchorX" : 0.5013333333333333,
+            "borderPerSide" : false,
+            "radiusBottomRight" : 10,
+            "children" : [
+              {
+                "__class" : "TextNode",
+                "locked" : false,
+                "centerAnchorX" : 0.5017361111111112,
+                "parentid" : ",Tft@'a}",
+                "rotation" : 0,
+                "top" : null,
+                "right" : null,
+                "styledText" : {
+                  "blocks" : [
+                    {
+                      "depth" : 0,
+                      "inlineStyleRanges" : [
+                        {
+                          "length" : 3,
+                          "style" : "FONT:.SFNSText|SFUIText-Regular|.SFUIText",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 3,
+                          "style" : "LETTERSPACING:0",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 3,
+                          "style" : "LINEHEIGHT:1.2",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 3,
+                          "style" : "SIZE:48",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 3,
+                          "style" : "COLOR:rgb(85, 85, 85)",
+                          "offset" : 0
+                        }
+                      ],
+                      "entityRanges" : [
+
+                      ],
+                      "data" : {
+                        "emptyStyle" : [
+                          "FONT:.SFNSText|SFUIText-Regular|.SFUIText",
+                          "LETTERSPACING:0",
+                          "LINEHEIGHT:1.2",
+                          "SIZE:48",
+                          "COLOR:rgb(85, 85, 85)"
+                        ]
+                      },
+                      "text" : "ONE",
+                      "key" : "9e9o8",
+                      "type" : "unstyled"
+                    }
+                  ],
+                  "__class" : "StyledTextDraft",
+                  "entityMap" : {
+
+                  }
+                },
+                "name" : null,
+                "shadows" : [
+                  {
+                    "y" : 2,
+                    "enabled" : false,
+                    "blur" : 5,
+                    "x" : 0,
+                    "__class" : "Shadow",
+                    "color" : "rgba(0,0,0,0.25)"
+                  }
+                ],
+                "id" : "vGU+O{##",
+                "constraintsLocked" : false,
+                "left" : null,
+                "bottom" : null,
+                "height" : 57,
+                "opacity" : 1,
+                "width" : 103,
+                "widthFactor" : null,
+                "targetName" : null,
+                "heightFactor" : null,
+                "editable" : false,
+                "visible" : true,
+                "centerAnchorY" : 0.4988584474885845,
+                "autoSize" : true
+              }
+            ],
+            "parentid" : "^!]l8\/|\/",
+            "borderRight" : 1,
+            "name" : "card1",
+            "height" : 438,
+            "borderWidth" : 1,
+            "top" : 115,
+            "borderTop" : 1,
+            "radiusTopRight" : 10,
+            "borderBottom" : 1,
+            "borderEnabled" : false,
+            "constraintsLocked" : false,
+            "right" : 43,
+            "radiusPerCorner" : false,
+            "centerAnchorY" : 0.5007496251874063,
+            "visible" : true,
+            "borderLeft" : 1,
+            "heightFactor" : null,
+            "radiusTopLeft" : 10,
+            "targetName" : "card1",
+            "bottom" : 114,
+            "width" : 288
+          }
+        ],
+        "height" : 667,
+        "fillColor" : "#ffffff",
+        "targetName" : null,
+        "name" : ""
+      }
+    ]
+  }
+}
