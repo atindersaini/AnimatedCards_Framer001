@@ -1,0 +1,69 @@
+{
+  "version" : 0,
+  "root" : {
+    "id" : "E_+xb_S&",
+    "fillColor" : "#fff",
+    "__class" : "CanvasNode",
+    "parentid" : null,
+    "children" : [
+      {
+        "id" : "38gk%R%b",
+        "__class" : "FrameNode",
+        "x" : 0,
+        "parentid" : "E_+xb_S&",
+        "width" : 375,
+        "y" : 0,
+        "deviceType" : "apple-iphone-7-black",
+        "children" : [
+          {
+            "__class" : "OvalNode",
+            "locked" : false,
+            "centerAnchorX" : 0.05333333333333334,
+            "parentid" : "38gk%R%b",
+            "rotation" : 0,
+            "top" : 115,
+            "borderWidth" : 1,
+            "right" : null,
+            "borderEnabled" : true,
+            "children" : [
+
+            ],
+            "name" : "Head",
+            "aspectRatioLocked" : true,
+            "fillColorEnabled" : true,
+            "id" : "#9-QJ^7]",
+            "boxShadows" : [
+              {
+                "x" : 0,
+                "color" : "rgb(255, 255, 255)",
+                "enabled" : true,
+                "y" : 2,
+                "__class" : "BoxShadow",
+                "inset" : false,
+                "blur" : 5
+              }
+            ],
+            "constraintsLocked" : false,
+            "left" : -20,
+            "bottom" : null,
+            "height" : 80,
+            "opacity" : 1,
+            "width" : 80,
+            "widthFactor" : null,
+            "targetName" : "Head",
+            "heightFactor" : null,
+            "fillColor" : "rgb(187, 187, 187)",
+            "borderColor" : "rgb(153, 204, 102)",
+            "centerAnchorY" : 0.232383808095952,
+            "visible" : true,
+            "clip" : false
+          }
+        ],
+        "height" : 667,
+        "fillColor" : "rgb(51, 51, 51)",
+        "targetName" : null,
+        "name" : null
+      }
+    ]
+  }
+}
