@@ -1,0 +1,1 @@
+{ mapboxgl } = require "npm"
